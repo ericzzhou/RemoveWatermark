@@ -1,0 +1,11 @@
+E:\workspace\ImageMergingExam\ImageMergingExam\bin\Debug\images\n0.jpg
+E:\workspace\ImageMergingExam\ImageMergingExam\bin\Debug\images\n1.jpg
+E:\workspace\ImageMergingExam\ImageMergingExam\bin\Debug\ImageMergingExam.exe.config
+E:\workspace\ImageMergingExam\ImageMergingExam\bin\Debug\ImageMergingExam.exe
+E:\workspace\ImageMergingExam\ImageMergingExam\bin\Debug\ImageMergingExam.pdb
+E:\workspace\ImageMergingExam\ImageMergingExam\obj\Debug\ImageMergingExam.Form1.resources
+E:\workspace\ImageMergingExam\ImageMergingExam\obj\Debug\ImageMergingExam.Properties.Resources.resources
+E:\workspace\ImageMergingExam\ImageMergingExam\obj\Debug\ImageMergingExam.csproj.GenerateResource.Cache
+E:\workspace\ImageMergingExam\ImageMergingExam\obj\Debug\ImageMergingExam.exe
+E:\workspace\ImageMergingExam\ImageMergingExam\obj\Debug\ImageMergingExam.pdb
+E:\workspace\ImageMergingExam\ImageMergingExam\obj\Debug\ImageMergingExam.csprojResolveAssemblyReference.cache

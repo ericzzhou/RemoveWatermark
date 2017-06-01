@@ -1,0 +1,5 @@
+\images 文件夹用来存放需要处理的图片，目录介绍：
+source ： 带水印的京东大图
+thumb  ： 不带水印的京东缩略图
+
+source 和 thumb 根据img文件名匹配对称，执行ImageProcessConsole.exe之后会在images 文件夹下生成 target 文件夹
